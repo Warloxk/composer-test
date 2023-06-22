@@ -1,4 +1,6 @@
 <?php
+namespace Warloxk\Test;
+
 class Test
 {
 	public static function HelloWorld() : string
