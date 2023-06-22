@@ -1,0 +1,23 @@
+{
+  "name": "warloxk/composer-test",
+  "description": "Composer test library",
+  "type": "library",
+  "keywords": ["test"],
+  "homepage": "https://github.com/Warloxk/composer-test",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name" : "Peter Blaho",
+      "homepage": "https://peterblaho.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Warloxk\\": "src/"
+    }
+  }
+}
