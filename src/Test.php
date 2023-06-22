@@ -1,5 +1,5 @@
 <?php
-namespace Warloxk\Test;
+namespace Warloxk;
 
 class Test
 {
